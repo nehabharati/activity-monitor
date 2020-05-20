@@ -35,7 +35,7 @@ function App() {
             <Modal.Title>Overview</Modal.Title>
           </Modal.Header>
           <Modal.Body>  
-            Click on the persons' name to see their activity. On clicking the "View detailed activity" button, you can see their activity information in a calendar
+            Click on any person's name and see their activity. On clicking the "View detailed activity" button, you can see their activity information in a calendar
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClosing}>
